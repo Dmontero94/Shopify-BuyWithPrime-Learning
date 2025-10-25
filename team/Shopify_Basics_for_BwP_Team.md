@@ -39,8 +39,8 @@ Example snippet (simplified):
     <button>Buy with Prime</button>
   </div>
 {% endif %}
-
 This means the button will only appear when the product is in stock.
+```
 
 ## ⚙️ 4. Best Practices for Support
 
