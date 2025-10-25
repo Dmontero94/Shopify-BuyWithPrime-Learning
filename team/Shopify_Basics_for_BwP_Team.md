@@ -42,7 +42,7 @@ Example snippet (simplified):
 
 This means the button will only appear when the product is in stock.
 
-⚙️ 4. Best Practices for Support
+## ⚙️ 4. Best Practices for Support
 
 ✅ Always back up the theme before editing code.
 
